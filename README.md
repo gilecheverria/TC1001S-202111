@@ -22,3 +22,10 @@ python3 get-pip.py
 ```
 pip install freegames
 ```
+
+## Installing on MobaXterm
+
+If the *turtle* library can not be found, try downloading this file and
+copying to the directory with the example progrmams:
+
+https://github.com/python/cpython/blob/master/Lib/turtle.py
