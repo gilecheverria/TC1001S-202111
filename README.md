@@ -23,9 +23,11 @@ python3 get-pip.py
 pip install freegames
 ```
 
-## Installing on MobaXterm
+## Installing on MobaXterm (Windows)
 
-If the *turtle* library can not be found, try downloading this file and
-copying to the directory with the example progrmams:
+To install the required software, run the following commands:
 
-https://github.com/python/cpython/blob/master/Lib/turtle.py
+1. apt-get install python3
+2. apt-get install python3-tkinter
+3. apt-get install python3-pip
+4. pip3 install freegames
